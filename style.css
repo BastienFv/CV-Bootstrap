@@ -1,0 +1,118 @@
+.row {
+    margin-left: 20%;
+}
+
+.stretched-link {
+    color: white !important;
+    text-decoration:none !important;
+}
+
+.experiences {
+    margin-right: 2% !important;
+}
+
+.bg-primary {
+    background-color:mediumseagreen !important;
+}
+
+.header {
+    margin-top: 10%;
+    margin-left: 20%;
+    display: inline-flex;
+}
+
+.h1 {
+    margin-top: 1%;
+    font-weight: bold;
+}
+
+.picture {
+    position: relative;
+    left: 300px;
+    top: 20px;
+}
+
+.about {
+    margin-top: 10%;
+    display: flex;
+    padding-bottom: 250px;
+}
+
+.aboutTitle {
+    position: absolute;
+    left: 800px;
+}
+
+.hello {
+    position: relative;
+    left: 785px;
+    top: 50px;
+}
+
+.code {
+    display: inline-flex;
+    position: relative;
+    top: 100px;
+    left: 235px;
+    margin-top: 20px
+}
+
+.rounded {
+    margin-right: 50px;
+}
+
+.bg-secondary {
+    background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+}
+
+.badge {
+    border: 1px solid mediumseagreen;
+    margin-right: 5px;
+}
+
+.btn {
+    background-color: mediumseagreen;
+    color: white;
+    text-decoration: none;
+}
+
+.download {
+    display: flex;
+    position: relative;
+    top: 180px;
+    right: 260px;
+}
+
+.btn-link {
+    background-color: mediumseagreen !important;
+    color: white !important;
+}
+
+.aboutPicture {
+    position: absolute;
+    left: 400px;
+    padding-top: 7px;
+}
+
+.table {
+    background-color: white;
+    display: inline-table;
+    width: 500px
+}
+
+.tableExp {
+    display: inline-block;
+    position: relative;
+    left: 785px;
+}
+
+.loisirs {
+    display: inline-block;
+    position: relative;
+    left: 785px;
+}
+
+.blockSkills {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
